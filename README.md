@@ -1,6 +1,6 @@
 "# Flutter" 
 Codigo de ejercicio 1 
-
+```
 class Vehiculo {
   String marca;
   String modelo;
@@ -31,9 +31,10 @@ void main() {
   Auto auto = Auto("Ford", "Mustang", 2022, "Gasolina");
   auto.mostrar();
 }
-
+```
 Ejercicio 2 
 
+```
 class Vehiculo {
   String marca;
   String modelo;
@@ -73,6 +74,7 @@ void main() {
   autoElectrico.mostrar();
 }
 
+```
 
 
 
